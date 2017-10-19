@@ -1,2 +1,4 @@
 angular.module('app', [])
-    .controller('mainController', mainController);
+.controller('mainController', mainController);
+
+ 
